@@ -1,4 +1,4 @@
-What up, this is **Sergi (or Sergio — both are correct)**.
+What's good! I’m **Sergi (or Sergio — both are correct)**.
 
 I’m a **Data Analyst / Data Scientist** with a strong focus on extracting insight from complex datasets and communicating results clearly.
 
@@ -19,6 +19,6 @@ I’ve pinned several projects from my **Master’s Degree**, and I’ve already
 
 ### 🧠 Background & Extras
 - Degree in **Journalism** → strong focus on storytelling with data  
-- Choir singer (pattern recognition, but for harmonies)
-- Can do pull-ups (datasets and gravity)
-- **Football Manager** enthusiast (data-driven decisions since before it was cool)
+- Choir singer (pattern recognition, but for harmonies) 🎶  
+- Can do pull-ups (datasets and gravity) 💪  
+- **Football Manager** enthusiast (data-driven decisions since before it was cool) ⚽
