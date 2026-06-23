@@ -1,10 +1,16 @@
-What's good! I’m **Sergi (or Sergio — both are correct)**.
+What's good! I’m Sergi (or Sergio — both are correct) 👋
 
-I’m a **Data Analyst / Data Scientist** with a strong focus on extracting insight from complex datasets and communicating results clearly.
+I’m a **Data Scientist & Data Analyst** dedicated to extracting high-value insights from complex datasets, engineering scalable data pipelines, and building intelligent solutions from experimentation to real-world deployment.
 
-I work mainly with **Python, pandas, SQL, Spark**, and I’m especially interested in **machine learning and deep learning**, from experimentation to real-world application.
+Currently, in my day-to-day role, I drive impact through:
+* ⚙️ **Scalable Data Engineering:** Automating production-ready ETL pipelines to migrate workflows into scalable data architectures.
+* 🤖 **Predictive Modeling:** Developing and deploying autonomous, end-to-end Machine Learning and AI solutions.
+* 📊 **Real-Time Analytics:** Designing interactive dashboards equipped with strategic KPIs and real-time visualizations.
+* 🎯 **Business Synergy:** Partnering closely with cross-functional operational teams to deeply understand business logic and translate it into technical insights.
 
-I’ve pinned several projects from my **Master’s Degree**, and I’ve already contributed to **10+ data projects**, spanning analysis, modeling, and visualization.
+Beyond my professional role and the 10+ data projects delivered during my Master's Degree, I am a passionate continuous learner. Right now, I am deep-diving into **Deep Learning, Neural Networks, and Computer Vision** to expand my AI engineering toolkit.
+
+---
 
 ---
 
