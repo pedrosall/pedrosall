@@ -2,7 +2,7 @@
 
 **Data Analyst | Python, SQL & Power BI | Machine Learning**
 
-I’m a Data Analyst transitioning towards Data Science, with a background in Journalism and professional experience across sales, finance, quality control and data analysis.
+I’m a Data Analyst transitioning towards Data Science, with a background across sales, finance, quality control and data analysis.
 
 I enjoy working at the intersection of **data, technology and business**: understanding a problem, working with the data behind it, finding meaningful patterns and turning them into actionable insights.
 
@@ -22,18 +22,12 @@ Predicting movie success using machine learning and neural networks, with featur
 🔹 **[PizzaBot](https://github.com/pedrosall/pizza_chatbot)**
 End-to-end AI application for pizza ordering using Gemini, structured extraction, deterministic fallback, SQLite, SQLAlchemy, Streamlit, Docker and automated testing.
 
-🔹 **Computer Vision — Amazon Deforestation**
+🔹 **[Computer Vision — Amazon Deforestation](https://github.com/pedrosall/amazon_deforestation_CV)**
 Deep learning model for detecting deforestation from satellite imagery, built with PyTorch and image classification techniques.
 
 ### Background
 
 My degree is in **Journalism**, which gave me a strong foundation in research, communication and storytelling. I later moved into data, combining those skills with technical training and hands-on projects in analytics, machine learning and AI.
-
-I’m currently looking for opportunities as a **Data Analyst, Product Analyst, BI Analyst or Junior Data Scientist**, ideally in an environment where I can contribute from day one and continue growing towards Data Science.
-
-### Currently learning
-
-**SQL • Advanced Power BI & DAX • Statistics • Machine Learning**
 
 ### Let's connect
 
