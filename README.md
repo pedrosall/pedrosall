@@ -32,6 +32,9 @@ I enjoy working at the intersection of **data, technology and business**: unders
 🔹 **[CineAI](https://github.com/pedrosall/cineai)**
 Predicting movie success using machine learning and neural networks, with feature engineering, leakage prevention, model comparison and SHAP-based interpretability.
 
+🔹 **[SQL Travel Destination Optimizer](https://github.com/pedrosall/sql_travel_destination_optimizer)**
+SQL-focused project using relational database queries, filtering and data selection techniques to identify high-privacy beach destinations for VIP travelers.
+
 🔹 **[PizzaBot](https://github.com/pedrosall/pizza_chatbot)**
 End-to-end AI application for pizza ordering using Gemini, structured extraction, deterministic fallback, SQLite, SQLAlchemy, Streamlit, Docker and automated testing.
 
